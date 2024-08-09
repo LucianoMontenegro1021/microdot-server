@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
+    background-color: #19de3e;
     color: #000080;
 }
 
 header {
-    background-color: #176fc7;
+    background-color: #17852c;
     padding: 20px 0;
     text-align: center;
 }
@@ -17,12 +17,16 @@ header h1 {
     color: white;
 }
 
+h2 {
+    margin: 10;
+    color: white;
+}
 main {
-    min-height: 70vh;
+    min-height: 20vh;
 }
 
 footer {
-    background-color: #176fc7;
+    background-color: #17852c;
     color: white;
     text-align: center;
     padding: 10px 0;
