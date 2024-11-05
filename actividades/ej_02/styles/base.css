@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
-    color: #000080;
+    background-color: #3d1757;
+    color: #252570;
 }
 
 header {
-    background-color: #176fc7;
+    background-color: #2b1e57;
     padding: 20px 0;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
-    color: white;
+    color: rgb(148, 106, 196);
 }
 
 main {
@@ -22,8 +22,8 @@ main {
 }
 
 footer {
-    background-color: #176fc7;
-    color: white;
+    background-color: #562166;
+    color: rgb(157, 89, 184);
     text-align: center;
     padding: 10px 0;
     position: fixed;
